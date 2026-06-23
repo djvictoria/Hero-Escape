@@ -1,5 +1,5 @@
 # Hero-Escape
-A 2D platformer game made with Unity
+A 2D platformer about a hero surviving the dangerous lands outside the castle.
 
 # Controls
 **WASD:** Movement<br/>
